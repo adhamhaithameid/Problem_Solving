@@ -1,0 +1,33 @@
+// {
+//     "configurations": [
+//         {
+//             "name": "Mac",
+//             "includePath": [
+//                 "${workspaceFolder}/**"
+//             ],
+//             "defines": [],
+//             "cStandard": "c17",
+//             "cppStandard": "c++14",
+//             "intelliSenseMode": "macos-clang-arm64"
+//         }
+//     ],
+//     "version": 4
+// }
+
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/Users/adhamhaithameid/cpp-headers"
+      ],
+      "defines": [],
+      "compilerPath": "/opt/homebrew/bin/g++-15",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-gcc-arm64"
+    }
+  ],
+  "version": 4
+}
