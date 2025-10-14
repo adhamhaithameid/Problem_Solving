@@ -25,7 +25,7 @@
       "defines": [],
       "compilerPath": "/opt/homebrew/bin/g++-15",
       "cStandard": "c17",
-      "cppStandard": "c++17",
+      "cppStandard": "c++23",
       "intelliSenseMode": "macos-gcc-arm64"
     }
   ],
