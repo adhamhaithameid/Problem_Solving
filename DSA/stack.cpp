@@ -1,3 +1,5 @@
+// Stack from Scratch
+
 #include <iostream>
 using namespace std;
 
